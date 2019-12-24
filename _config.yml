@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://robinliu2010.github.io/tax-wiki/
-root: /tax-wiki/
+url: http://taxhot.com
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -108,7 +108,7 @@ pwa:
     body:
       name: Hexo
       short_name: Hexo
-      start_url: https://robinliu2010.github.io/tax-wiki/
+      start_url: http://taxhot.com
       description: ""
       scope: /
       display: standalone
