@@ -17,7 +17,7 @@ deploy:
   provider: pages
   on:
     branch: hexo
-  fqdn: taxhot.com
+  fqdn: hop-on-hop-off-chengdu.com
   skip_cleanup: true
   local_dir: ${FOLDER}
   token: ${TOKEN}
