@@ -127,11 +127,11 @@ widgets:
         # Where should the widget be placed, left or right
         position: left
         # Author name to be shown in the profile widget
-        author: Your name
+        author: Robin Liu
         # Title of the author to be shown in the profile widget
-        author_title: Your title
+        author_title: 让办税不再难
         # Author's current location to be shown in the profile widget
-        location: Your location
+        location: 中国 四川
         # Path or URL to the avatar to be shown in the profile widget
         avatar: 
         # Email address for the Gravatar to be shown in the profile widget
@@ -175,7 +175,7 @@ widgets:
         # Widget name
         type: category
         # Where should the widget be placed, left or right
-        position: left
+        position: right
     -
         # Widget name
         type: tagcloud

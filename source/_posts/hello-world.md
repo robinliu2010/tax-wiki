@@ -1,7 +1,10 @@
 ---
 title: Hello World
+toc: true
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+
+<!-- more -->
 
 ## Quick Start
 
@@ -34,5 +37,11 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 ``` bash
 $ hexo deploy
 ```
+
+## 个人所得税
+
+个人所得税是一种个人缴纳的税种。
+
+
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
